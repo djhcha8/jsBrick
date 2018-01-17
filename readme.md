@@ -10,7 +10,7 @@ Break Bricks is a classic game built using javascript. Clear each round by break
 - A instructional modal or component
 
 # Wireframes
-![wireframe_img](./img/wireframe.png)
+![wireframe_img](/img/wireframe.png)
 1. Title
 2. Game information
 3. Main game screen
